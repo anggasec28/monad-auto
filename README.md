@@ -1,8 +1,8 @@
 ## Monad Auto TX
 
-## 📢 Join Our Community
 
-# [TelegramChannel](https://t.me/kedaidrop)
+
+# 📢 Join [TelegramChannel](https://t.me/kedaidrop)
 
 Monad-Auto adalah alat otomatisasi blockchain yang dirancang untuk berinteraksi dengan berbagai layanan mata uang kripto untuk bertukar dan mempertaruhkan token. Ini menyediakan antarmuka dasbor untuk memantau operasi dan log, dan itu berputar melalui tugas-tugas seperti membungkus/membuka dan mempertaruhkan/membuka taruhan token.
 
