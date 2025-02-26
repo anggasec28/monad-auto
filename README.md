@@ -1,13 +1,10 @@
-# Monad-Bot-Free Version 
-
-An automated bot for managing multiple Monard with proxy support.
+## Monad Auto TX
 
 ## 📢 Join Our Community
 
-# Telegram Channel: .[Channel](https://t.me/Offical_Im_kazuha)
-# GitHub Repository: [Monard](https://github.com/Kazuha787/Monad-Bot.git)
+# [TelegramChannel](https://t.me/Offical_Im_kazuha)
 
-Monad-BOT is a blockchain automation tool designed to interact with various cryptocurrency services for swapping and staking tokens. It provides a dashboard interface to monitor operations and logs, and it cycles through tasks like wrapping/unwrapping and staking/unstaking tokens.
+Monad-Auto adalah alat otomatisasi blockchain yang dirancang untuk berinteraksi dengan berbagai layanan mata uang kripto untuk bertukar dan mempertaruhkan token. Ini menyediakan antarmuka dasbor untuk memantau operasi dan log, dan itu berputar melalui tugas-tugas seperti membungkus/membuka dan mempertaruhkan/membuka taruhan token.
 
 ## Features
 
@@ -21,8 +18,8 @@ Monad-BOT is a blockchain automation tool designed to interact with various cryp
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Kazuha787/Monad-Bot.git
-   cd Monad-Bot
+   git clone https://github.com/anggasec28/monad-auto.git
+   cd monad-auto
    ```
 
 2. Install dependencies:
@@ -53,14 +50,3 @@ Monad-BOT is a blockchain automation tool designed to interact with various cryp
 - **API Endpoints**: Set the API endpoints for liquid staking and other services.
 - **Contract Addresses**: Update the contract addresses for the tokens and services you wish to interact with.
 - **Cycle Parameters**: Adjust the cycle count, cooldown time, and delay settings to suit your needs.
-
-## Dependencies
-
-- **axios**: For making HTTP requests to external APIs.
-- **blessed**: For creating the terminal-based dashboard interface.
-- **blessed-contrib**: For additional dashboard components.
-- **ethers**: For interacting with the Ethereum blockchain.
-
-## License
-
-This project is licensed under the ISC License.
